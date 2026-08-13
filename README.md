@@ -35,22 +35,26 @@
 
 ---
 
+### 💼 Experiência Profissional
+
+- **Desenvolvedor Back-End .NET Freelance** | *Desulog Despachante Aduaneiro* (2026 - Atual)
+  > Desenvolvimento de API RESTful para gestão de operações de importação/exportação utilizando C#, ASP.NET Core, EF Core, SQL Server, Docker e AWS.
+
+- **Desenvolvedor .NET Freelance** | *Litoral Polimentos* (2024 - Atual)
+  > Desenvolvimento e manutenção de sistema web para gestão de serviços e clientes em ASP.NET Core MVC, SQLite e SQL Server.
+
+- **Analista de Suporte Computacional Pleno** | *SIMAPI Comércio Importação e Exportação* (2026 - Atual)
+  > Suporte N1/N2, administração de servidores (Windows Server, Active Directory) e infraestrutura de redes.
+
+---
+
 ### 🚀 Projetos em Destaque
 
 - **[Sistema de Controle de Estoque e Caixa](https://github.com/LeonardoLibanori/ControleEstoqueLoja):** Sistema web completo em ASP.NET Core MVC para gestão de estoque, vendas e controle de caixa voltado a pequenos comércios. Desenvolvido com C#, Entity Framework Core e SQLite.
 
 ---
 
-### 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoLibanori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoLibanori&layout=compact&theme=dark"/>
-</div>
-
----
-
 ### 📬 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LeonardoPatezLibanori)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-patez-libanori-40b193299/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleonardo.libanori@gmail.com)
