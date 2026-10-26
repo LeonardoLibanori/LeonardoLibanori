@@ -1,4 +1,4 @@
-# Olá, eu sou o Leonardo Patez Libanori! 👋
+# Olá, eu sou o Leonardo! 👋
 
 **Desenvolvedor Back-End .NET Jr.** especializado no desenvolvimento de APIs RESTful robustas, escaláveis e seguras utilizando C# e a plataforma .NET.
 
